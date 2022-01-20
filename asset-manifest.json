@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/2022-goit-react-hw-01-components/static/css/main.c50319f1.css",
+    "main.js": "/2022-goit-react-hw-01-components/static/js/main.0762bfe3.js",
+    "static/media/photo.jpg": "/2022-goit-react-hw-01-components/static/media/photo.c2dfd5214f8c352da262.jpg",
+    "index.html": "/2022-goit-react-hw-01-components/index.html",
+    "main.c50319f1.css.map": "/2022-goit-react-hw-01-components/static/css/main.c50319f1.css.map",
+    "main.0762bfe3.js.map": "/2022-goit-react-hw-01-components/static/js/main.0762bfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50319f1.css",
+    "static/js/main.0762bfe3.js"
+  ]
+}
